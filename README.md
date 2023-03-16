@@ -1,4 +1,46 @@
 # Hyper_Gallery
 JSP를 이용한 웹 사이트 메이킹 프로젝트
 
-[201944012_강교진.pdf](https://github.com/gyojinnK/Hyper_Gallery/files/10989549/201944012_.pdf)
+
+![201944012_강교진1024_1](https://user-images.githubusercontent.com/97776614/225591092-d833f352-6306-49b7-8337-b8174b8a2f1c.jpg)
+![201944012_강교진1024_2](https://user-images.githubusercontent.com/97776614/225591162-26c4954d-5bfe-413b-ba3f-ab4525eb9bd5.jpg)
+![201944012_강교진1024_3](https://user-images.githubusercontent.com/97776614/225591220-1f3cec44-c698-42e0-acda-fc7feed07955.jpg)
+![201944012_강교진1024_4](https://user-images.githubusercontent.com/97776614/225591307-edace905-2c01-4fba-9a10-89e74a7c1f55.jpg)
+![201944012_강교진1024_5](https://user-images.githubusercontent.com/97776614/225591354-0d38206d-681c-44af-9abe-97206d48ab4e.jpg)
+![201944012_강교진1024_6](https://user-images.githubusercontent.com/97776614/225591419-fe4897a7-fdff-4b65-8ab2-c31af69ba1e7.jpg)
+![201944012_강교진1024_7](https://user-images.githubusercontent.com/97776614/225591476-9b92e6ed-b591-4707-a0ef-83a185d9e08b.jpg)
+![201944012_강교진1024_8](https://user-images.githubusercontent.com/97776614/225591471-5c0dfa08-b64e-4e6d-aed7-062360d38ee4.jpg)
+![201944012_강교진1024_9](https://user-images.githubusercontent.com/97776614/225591468-8ed8a885-0c8a-40e9-a841-fed17a75a81e.jpg)
+![201944012_강교진1024_10](https://user-images.githubusercontent.com/97776614/225591628-b3aa6bf9-2afb-4cfd-93e7-53cf7f66a19b.jpg)
+![201944012_강교진1024_11](https://user-images.githubusercontent.com/97776614/225591644-87696c8d-3ff9-475b-bf55-caa6fd6d0d2b.jpg)
+![201944012_강교진1024_12](https://user-images.githubusercontent.com/97776614/225591776-bcc654ab-66d7-4dd8-adfb-2c7e8899bb77.jpg)
+![201944012_강교진1024_13](https://user-images.githubusercontent.com/97776614/225591813-f9fa0cee-98dd-468b-8880-64fa5c230c73.jpg)
+![201944012_강교진1024_14](https://user-images.githubusercontent.com/97776614/225591836-09170a34-82e7-4229-be4e-6df9631e6a14.jpg)
+![201944012_강교진1024_15](https://user-images.githubusercontent.com/97776614/225591853-7dd6c47b-7e92-43b4-b1c6-7efcad9be69c.jpg)
+![201944012_강교진1024_16](https://user-images.githubusercontent.com/97776614/225591883-bab77294-e0e8-4675-81af-893608f18796.jpg)
+![201944012_강교진1024_17](https://user-images.githubusercontent.com/97776614/225591954-9400991e-ff70-43bf-b4cc-4f8b014aaf6d.jpg)
+![201944012_강교진1024_18](https://user-images.githubusercontent.com/97776614/225591999-fc57e594-c12c-4621-98e0-e47d5bec805e.jpg)
+![201944012_강교진1024_19](https://user-images.githubusercontent.com/97776614/225592022-c1f5e599-fe50-4c66-9122-db0877deab28.jpg)
+![201944012_강교진1024_20](https://user-images.githubusercontent.com/97776614/225592063-f89f1f55-1b01-42ef-971b-cc9312e8846c.jpg)
+![201944012_강교진1024_21](https://user-images.githubusercontent.com/97776614/225592111-11b66888-c0f2-459b-b597-d7cedc41ac68.jpg)
+![201944012_강교진1024_22](https://user-images.githubusercontent.com/97776614/225592140-044ff729-4c93-4844-84e6-3cb936e4fb05.jpg)
+![201944012_강교진1024_23](https://user-images.githubusercontent.com/97776614/225592166-5714d807-8be0-4e63-8ee3-8747abb094a5.jpg)
+![201944012_강교진1024_24](https://user-images.githubusercontent.com/97776614/225592180-0723297f-c2f1-4790-84e4-dc09e0b4bde2.jpg)
+![201944012_강교진1024_25](https://user-images.githubusercontent.com/97776614/225592205-619918e0-fe7f-4426-92b6-927059422c86.jpg)
+![201944012_강교진1024_26](https://user-images.githubusercontent.com/97776614/225592231-e369bb3f-c100-4ede-a2fe-c5a84de64910.jpg)
+![201944012_강교진1024_27](https://user-images.githubusercontent.com/97776614/225592246-8e51c1e4-cc3b-4b4e-a664-81bf7b86667d.jpg)
+![201944012_강교진1024_28](https://user-images.githubusercontent.com/97776614/225592292-c215a6bc-9389-4d4f-80c1-3b549143bfe1.jpg)
+![201944012_강교진1024_29](https://user-images.githubusercontent.com/97776614/225592308-53e41343-d9a5-47c6-bb88-0490465befcb.jpg)
+![201944012_강교진1024_30](https://user-images.githubusercontent.com/97776614/225592330-e77d7391-007e-463d-af45-a542839055
+![201944012_강교진1024_31](https://user-images.githubusercontent.com/97776614/225592351-772d87b3-eb94-4e6f-ad26-cd82d21e650f.jpg)
+73.jpg)
+![201944012_강교진1024_32](https://user-images.githubusercontent.com/97776614/225592423-1a5c1591-065c-4c39-b096-501d502cf2f9.jpg)
+![201944012_강교진1024_33](https://user-images.githubusercontent.com/97776614/225592576-a606dffc-80cf-4653-8573-10b23b05b7ba.jpg)
+![201944012_강교진1024_34](https://user-images.githubusercontent.com/97776614/225592598-f7fc9f98-1618-4dd7-890d-4236b912e03f.jpg)
+![201944012_강교진1024_35](https://user-images.githubusercontent.com/97776614/225592644-dc7a44f6-a21b-4afc-99cf-170bb4aba591.jpg)
+![201944012_강교진1024_36](https://user-images.githubusercontent.com/97776614/225592668-47c96d31-b16f-45a3-9c17-9cb5a673501f.jpg)
+![201944012_강교진1024_37](https://user-images.githubusercontent.com/97776614/225592688-9eb31cea-eee2-432f-b370-3748058c5890.jpg)
+![201944012_강교진1024_38](https://user-images.githubusercontent.com/97776614/225592728-f6019ff4-29f6-4179-9187-804c59501d26.jpg)
+
+
+
