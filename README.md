@@ -31,9 +31,8 @@ JSP를 이용한 웹 사이트 메이킹 프로젝트
 ![201944012_강교진1024_27](https://user-images.githubusercontent.com/97776614/225592246-8e51c1e4-cc3b-4b4e-a664-81bf7b86667d.jpg)
 ![201944012_강교진1024_28](https://user-images.githubusercontent.com/97776614/225592292-c215a6bc-9389-4d4f-80c1-3b549143bfe1.jpg)
 ![201944012_강교진1024_29](https://user-images.githubusercontent.com/97776614/225592308-53e41343-d9a5-47c6-bb88-0490465befcb.jpg)
-![201944012_강교진1024_30](https://user-images.githubusercontent.com/97776614/225592330-e77d7391-007e-463d-af45-a542839055
+![201944012_강교진1024_30](https://user-images.githubusercontent.com/97776614/226153084-1851fb1a-6aac-43be-bcf9-34770b088de0.jpg)
 ![201944012_강교진1024_31](https://user-images.githubusercontent.com/97776614/225592351-772d87b3-eb94-4e6f-ad26-cd82d21e650f.jpg)
-73.jpg)
 ![201944012_강교진1024_32](https://user-images.githubusercontent.com/97776614/225592423-1a5c1591-065c-4c39-b096-501d502cf2f9.jpg)
 ![201944012_강교진1024_33](https://user-images.githubusercontent.com/97776614/225592576-a606dffc-80cf-4653-8573-10b23b05b7ba.jpg)
 ![201944012_강교진1024_34](https://user-images.githubusercontent.com/97776614/225592598-f7fc9f98-1618-4dd7-890d-4236b912e03f.jpg)
@@ -41,6 +40,10 @@ JSP를 이용한 웹 사이트 메이킹 프로젝트
 ![201944012_강교진1024_36](https://user-images.githubusercontent.com/97776614/225592668-47c96d31-b16f-45a3-9c17-9cb5a673501f.jpg)
 ![201944012_강교진1024_37](https://user-images.githubusercontent.com/97776614/225592688-9eb31cea-eee2-432f-b370-3748058c5890.jpg)
 ![201944012_강교진1024_38](https://user-images.githubusercontent.com/97776614/225592728-f6019ff4-29f6-4179-9187-804c59501d26.jpg)
+![201944012_강교진1024_39](https://user-images.githubusercontent.com/97776614/226153104-e64e7929-afb7-46c8-b62d-f8a0d5053ca4.jpg)
+![201944012_강교진1024_40](https://user-images.githubusercontent.com/97776614/226153105-953e938c-a071-4d1c-a30c-233b6368101c.jpg)
+![201944012_강교진1024_41](https://user-images.githubusercontent.com/97776614/226153106-fc57c922-d2ab-4c4f-a7f8-dd92a9f1e51f.jpg)
+
 
 
 
